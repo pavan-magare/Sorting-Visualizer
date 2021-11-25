@@ -1,1 +1,1 @@
-https://yash492.github.io/Sorting-Visualizer/
+https://pavan-magare.github.io/Sorting-Visualizer/
